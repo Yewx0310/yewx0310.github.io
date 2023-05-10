@@ -1,2 +1,6 @@
+http://example.com/2023/05/10/Day16/
+http://example.com/2023/05/10/HTML/
 http://example.com/2023/05/09/hello-world/
 http://example.com/
+http://example.com/tags/Java/
+http://example.com/tags/HTML/
